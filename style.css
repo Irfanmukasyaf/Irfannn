@@ -1,0 +1,15 @@
+h1 {
+    font-size: 14pt;
+    font-style: italic;
+    color: brown;
+}
+
+#miring{
+    font-style: italic;
+    color:blue;
+}
+
+.tebal{
+    font-weight: bold;
+    color: black;
+}
